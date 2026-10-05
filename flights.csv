@@ -1,0 +1,22 @@
+flight_id,airline,from_city,from_country,to_city,to_country,dep_date,duration_min,price_eur,note
+FL-3856,Zephyr Lines,Paris,France,Berlin,Germany,2026-04-07,125,91.99,
+FL-6049,Falcon Jet,Madrid,Spain,Lviv,Ukraine,2026-07-21,252,208.00,delay=40;by=PassengerReport
+FL-7617,Lumen Air,Lisbon,Portugal,Vilnius,Lithuania,2026-06-28,196,242.00,delay=15;by=FlightLog
+FL-2251,Falcon Jet,Berlin,Germany,Tallinn,Estonia,26.08.2026,154,67.99,
+FL-2754,Falcon Jet,Prague,Czechia,Lyon,France,2026-09-27,111,186.00,delay=10;by=FlightLog
+ fl-4388 ,Lumen Air ,MILAN,Italy,Krakow,Poland,2026-06-17,206,,
+FL-2082,SkyNord,Tallinn,Estonia,Lviv,Ukraine,07.05.2026,311,,
+FL-1959,Lumen Air,Odesa,Ukraine,Budapest,Hungary,2026-09-18,312,174.00,
+ fl-7556 ,Falcon Jet ,ROME,Italy,Berlin,Germany,14.06.2026,156,214.99,
+FL-5416,Blue Meridian,Oslo,Norway,Vienna,Austria,04.07.2026,118,168.00,
+FL-9428,Lumen Air,Vilnius,Lithuania,Oslo,Norway,2026-09-15,178,,
+FL-7556,Falcon Jet,Rome,Italy,Berlin,Germany,14.06.2026,156,214.99,
+FL-5897,Lumen Air,Lyon,France,Lviv,Ukraine,13.05.2026,281,177.50,
+FL-7444,AeroVista,Tallinn,Estonia,Vilnius,Lithuania,2026-08-25,192,74.99,
+FL-4388,Lumen Air,Milan,Italy,Krakow,Poland,2026-06-17,206,,
+FL-6564,Falcon Jet,Vilnius,Lithuania,Lisbon,Portugal,16.03.2026,122,60.00,
+FL-2455,SkyNord,Oslo,Norway,Lyon,France,24.05.2026,139,252.99,
+FL-2532,Orbit Airways,Paris,France,Budapest,Hungary,2026-09-18,243,237.99,
+FL-6481,Falcon Jet,Paris,France,Munich,Germany,2026-06-21,203,157.50,delay=90;by=AirWatch
+FL-5938,Orbit Airways,Krakow,Poland,Milan,Italy,2026-08-18,71,148.00,
+FL-8116,Zephyr Lines,Kyiv,Ukraine,Tallinn,Estonia,13.05.2026,92,81.50,delay=90;by=PassengerReport
