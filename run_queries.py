@@ -1,3 +1,5 @@
+from zoneinfo import ZoneInfo
+
 import requests
 import csv
 import json
@@ -31,7 +33,7 @@ def main():
     run_query("q2.rq", "q2.csv")
     run_query("q3.rq", "q3.csv")
 
-    meta = {"retrieved_at": datetime.now(timezone.utc).isoformat()}
+    meta = {"retrieved_at": datetime.now(ZoneInfo("Europe/Kyiv")).isoformat()}
     with open("meta.json","w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
 
